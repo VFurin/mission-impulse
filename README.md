@@ -1,2 +1,13 @@
-# mission-impulse
-Aplicação completa com backend, front-end web e front-end mobile, utilizando uma única linguagem JavaScript com as bibliotecas React e React Native. 
+# Mission-Impulse
+
+Aplicação completa com backend, front-end web e front-end mobile, utilizando as linguagens JavaScript e TypeScript com as bibliotecas React e React Native.
+
+Para deixar aplicação acessível para todos foi utilizado a biblioteca headless para tratar acessibilidade da aplicação.
+
+## Referência
+- [React](https://pt-br.reactjs.org/docs/getting-started.html)
+- [React Native](https://reactnative.dev/)
+- [headlessui](https://headlessui.com/)
+
+## Etiquetas
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
